@@ -27,5 +27,5 @@ This project focuses on analyzing and visualizing agricultural data using Power 
 
 ## Report Preview
 
-[Add a screenshot or description of a sample visualization from the project here]
+![Final Report](/images/FinalReport.jpg)
 
